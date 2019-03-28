@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Synthesizer_Linburg</string>
+    <string name="button1">First Button</string>
+
+    <string name="button2">New Button</string>
+
+    <string name="button3">Awaken</string>
+
+    <string name="button4">Joestar</string>
+
+    <string name="spinner1">choose</string>
+    <string-array name="notes">
+        <item>A</item>
+        <item>B</item>
+        <item>Bb</item>
+        <item>C</item>
+        <item>Cs</item>
+        <item>D</item>
+        <item>Ds</item>
+        <item>E</item>
+        <item>F</item>
+        <item>Fs</item>
+        <item>G</item>
+        <item>Gs</item>
+        <item>High E</item>
+        <item>High F</item>
+        <item>High Fs</item>
+        <item>High G</item>
+    </string-array>
+
+    <string name="spinner2">Repeat</string>
+    <string-array name="numbers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
+    <string name="check">Check Box</string>
+
+</resources>
